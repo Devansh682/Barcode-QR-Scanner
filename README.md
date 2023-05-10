@@ -26,7 +26,7 @@ pip install opencv-python pyzbar numpy
 
 ## Customization
 
-You can customize the script by modifying the following variables:
+You can customize the script by modifying the following :
 
 - `myDataList`: The list of authorized individuals. You can add or remove entries to this list by modifying the `mydata.txt` file.
 - `log.csv`: The name of the CSV file used to log authorized codes and their time of detection.
