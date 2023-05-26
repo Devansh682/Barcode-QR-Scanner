@@ -1,6 +1,6 @@
 # Barcode-QR-Scanner 
 
-This is a Python script that uses OpenCV, Pyzbar, and webbrowser libraries to capture an image through a webcam and decode any QR code or barcode present in the image. If the decoded data is present in a pre-defined list of authorized individuals, the script logs the data and time in a CSV file, marks the code as authorized, and opens the associated website in a new tab. 
+This is a Python script that uses OpenCV, Pyzbar, and webbrowser libraries to capture an image through a webcam and decode any QR code or barcode present in the image. If the decoded data is present in a pre-defined list of authorized individuals, the script logs the data and time in a CSV file, marks the code as authorized, and opens the associated website in a new tab(if any). 
 
 ## Dependencies
 
